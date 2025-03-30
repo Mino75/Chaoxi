@@ -1,0 +1,33 @@
+{
+    "files": [
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html>\n<head>\n  <title>My App</title>\n</head>\n<body>\n</body>\n</html>"
+      },
+      {
+        "name": "dockerfile",
+        "content": "# Docker config"
+      },
+      {
+        "name": "main.js",
+        "content": "// main.js"
+      },
+      {
+        "name": "styles.js",
+        "content": "// styles.js"
+      },
+      {
+        "name": "service-worker.js",
+        "content": "// service-worker.js"
+      },
+      {
+        "name": "server.js",
+        "content": "// server.js"
+      },
+      {
+        "name": "manifest.json",
+        "content": "{}"
+      }
+    ]
+  }
+  
